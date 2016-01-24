@@ -1,0 +1,10 @@
+C:\Универ\Диплом\IerarchalAlgorithm\IerarchalAlgorithm\bin\Debug\IerarchalAlgorithm.exe.config
+C:\Универ\Диплом\IerarchalAlgorithm\IerarchalAlgorithm\obj\Debug\IerarchalAlgorithm.csproj.ResolveComReference.cache
+C:\Универ\Диплом\IerarchalAlgorithm\IerarchalAlgorithm\bin\Debug\IerarchalAlgorithm.exe
+C:\Универ\Диплом\IerarchalAlgorithm\IerarchalAlgorithm\bin\Debug\IerarchalAlgorithm.pdb
+C:\Универ\Диплом\IerarchalAlgorithm\IerarchalAlgorithm\obj\Debug\IerarchalAlgorithm.csprojResolveAssemblyReference.cache
+C:\Универ\Диплом\IerarchalAlgorithm\IerarchalAlgorithm\obj\Debug\IerarchalAlgorithm.Form1.resources
+C:\Универ\Диплом\IerarchalAlgorithm\IerarchalAlgorithm\obj\Debug\IerarchalAlgorithm.Properties.Resources.resources
+C:\Универ\Диплом\IerarchalAlgorithm\IerarchalAlgorithm\obj\Debug\IerarchalAlgorithm.csproj.GenerateResource.Cache
+C:\Универ\Диплом\IerarchalAlgorithm\IerarchalAlgorithm\obj\Debug\IerarchalAlgorithm.exe
+C:\Универ\Диплом\IerarchalAlgorithm\IerarchalAlgorithm\obj\Debug\IerarchalAlgorithm.pdb
